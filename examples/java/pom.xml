@@ -403,6 +403,11 @@
       <groupId>org.apache.beam</groupId>
       <artifactId>beam-sdks-java-core</artifactId>
     </dependency>
+    
+    <dependency>
+      <groupId>org.apache.beam</groupId>
+      <artifactId>beam-sdks-java-io-jdbc</artifactId>
+    </dependency>
 
     <dependency>
       <groupId>org.apache.beam</groupId>
